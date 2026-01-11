@@ -1,4 +1,3 @@
-# ok
 I mainly work on robotics and related computer science fields.
 My works and projects mainly involve in:
  * ## Computer Vision

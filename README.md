@@ -1,7 +1,6 @@
-I mainly work on robotics and related computer science fields.
-My works and projects mainly involve in:
+I primarily work in robotics and related fields of computer science.
+My works and projects mainly involve (but are not limited to):
  * ## Computer Vision
- * ## Drones
- * ## Mobile Robots
- * ## Autonomous Navigation 
+ * ## Autonomous Drones
+ * ## Autonomous Mobile Robots
 Trying to learn by contributing here. 
